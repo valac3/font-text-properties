@@ -25,7 +25,7 @@
     /* Font Stacks */
     --heading-font: 'Seymour One', Impact, sans-serif;
 	--body-fonts: Lato, Arial, sans-serif;
-}
+	}
 
 body{
 	/* set the font family to Lato, Arial, sans-serif (--body-fonts) */
